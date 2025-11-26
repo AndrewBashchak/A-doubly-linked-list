@@ -234,3 +234,4 @@ console.log("Size:", list.getSize());
 
 list.insertArray(1, [100, 200, 300]);
 console.log("After inserting an array by index:", list.format());
+
